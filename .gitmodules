@@ -1,0 +1,6 @@
+[submodule "todo-list-frontend"]
+	path = todo-list-frontend
+	url = https://github.com/BraianMG/todo-list-frontend.git
+[submodule "todo-list-backend"]
+	path = todo-list-backend
+	url = https://github.com/BraianMG/todo-list-backend.git
